@@ -1,0 +1,21 @@
+STM32F03系列微处理器
+- 入门级ARM Cortex-M0 32位RISC内核
+- 高速嵌入式存储器
+- I2C
+- SPI
+- USART
+- 12位ADC
+- 16位计时器
+- 高级控制PWM计时器
+- 48MHz CPU
+- flash 64KB
+- SRAM 8KB
+- 电源 2.4~3.6V
+- 温度范围 -40~+85
+- 封装 Tray
+- 数据总线宽度 32bit
+- ADC 分辨率 12bit
+- 输出/输入端数量 39
+- ADC通道数量 12 Channel
+
+
